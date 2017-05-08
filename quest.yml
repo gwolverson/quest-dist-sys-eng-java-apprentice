@@ -1,32 +1,53 @@
-SKILL: SCM (Distributed) - Git (Apprentice Developer)
+QUEST - Distributed Systems Engineer in 2017 (JVM Flavour)
 
-[PRE-REQUISITES]
-	* None
+* Apprentice (General)
+ - SCM: Git (inc. Gitflow)
+ - Networking: HTTP/HTTPS protocols, and Web Server basics
+ - *nix Operating systems (basic), terminal usage (basic), and vi (basic)
+ - OOAD - class diagrams, system sequence diagrams, state-transition diagrams
+ - Patterns: MVC and Singleton
+ - Auth. and Auth. and basic Security
+ - Principles: DRY, SOLID, YAGNI, KISS etc
+ - Scrum (Team Member)
+ - Software Craftsmanship - TDD, Pairing, consuming CI, Estimation 
 
-[TOPICS]
-	* Installation and Config
-	* Initialising
-	* Cloning
-	* Adding and Commutting
-	* Pushing
-	* Branches
-	* Rebasing and Merging
-	* Pull Requests
-	* Gitflow
+* Apprentice (Specific)
+ - Java 8
+ - IDE - IntelliJ IDEA
+ - CI - Jenkins 2
+ - Build tool - Maven
+ - Testing - JUnit
+ - Framework - Spring
+ - Persistence (Relational) - MySQL 
+ 
+* Journeyman (General)
+ - Algorithms and Data Structures
+ - Debuggers
+ - Distributed Systems for Fun and Profit
+ - Caching
+ - [8 Fallacies of Networked Computing]
+ - Domain Driven Design
+ - RESTful APIs
+ - Asynchronous Integration
+ - Databases: Normal Form (ADVANCED), Defining Tables and Schemas (ADVANCED), Tx Isolation Levels (ADVANCED)
 
-[RESOURCES]
-	* "Learn Git Branching" (http://learngitbranching.js.org/) - online sandpit to teach you git branching
-	* Atlassian Git Tutorials (https://www.atlassian.com/git/tutorials/what-is-version-control) - "Beginner", "Getting Started" and "Collaborating"
-	* "A Successful Git Branching Model" (http://nvie.com/posts/a-successful-git-branching-model/) - the original blog post introducing Gitflow by Vincent Driessen
+* Journeyman (Specific)
+ - Effective Java
+ - EIP Framework - Apache Camel
+ - More Build tools (Checkstyle, PMD, Findbugs, Mockito, etc.)
+ - Functional Java
+ - JMS
+ - Linux Containers (Docker)
+ - AWS (consuming services of)
+ - Setting up Jenkins build pipelines
+ - Setting up Github
+ - Setting up Artifactory
+ - Persistence - MongoDB (NoSQL, Document)
 
-[BADGES]
-    * git-user (apprentice)
-    * git-flow
+* Master (TBC)
 
-[EXPERIENCE SUGGESTIONS]
-	* 
-
-[ADVENTURER NOTES]
-	* 
-
-[THE CAIRN]
+META-Skills
+ * Learning how to learn
+ * Learning how to research
+ * learning how to problem solve - ITERATION
+ * learning how to harness creativity - ITERATION
