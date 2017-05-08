@@ -1,0 +1,27 @@
+QUEST - Distributed Systems Engineer in 2017 (Java Flavour)
+
+* Apprentice (General)
+ - SCM: Git (inc. Gitflow)
+ - Networking: HTTP/HTTPS protocols, and Web Server basics
+ - *nix Operating systems (basic), terminal usage (basic), and vi (basic)
+ - OOAD - class diagrams, system sequence diagrams, state-transition diagrams
+ - Patterns: MVC and Singleton
+ - Auth. and Auth. and basic Security
+ - Principles: DRY, SOLID, YAGNI, KISS etc
+ - Scrum (Team Member)
+ - Software Craftsmanship - TDD, Pairing, consuming CI, Estimation 
+
+* Apprentice (Specific)
+ - Java 8
+ - IDE - IntelliJ IDEA
+ - CI - Jenkins 2
+ - Build tool - Maven
+ - Testing - JUnit
+ - Framework - Spring
+ - Persistence (Relational) - MySQL 
+
+META-Skills
+ * Learning how to learn
+ * Learning how to research
+ * learning how to problem solve - ITERATION
+ * learning how to harness creativity - ITERATION
