@@ -7,7 +7,7 @@
  - [Object-Oriented Analysis and Design (Apprentice Developer)](https://github.com/andrewharmellaw/skill-ooad-apprentice-dev)
  - [Design Patterns (Apprentice)](https://github.com/andrewharmellaw/skill-design-patterns-apprentice-dev)
  - [Security and Cyber Concepts (Apprentice Developer)](https://github.com/andrewharmellaw/skill-security-cyber-apprentice-dev)
- - [Development Principles (Apprentice Developer)]([https://github.com/andrewharmellaw/skill-development-principles-apprentice-dev)
+ - [Development Principles (Apprentice Developer)](https://github.com/andrewharmellaw/skill-development-principles-apprentice-dev)
  - [Scrum (Pig)](https://github.com/andrewharmellaw/skill-scrum-pig)
  - [Extreme Programming (Apprentice Developer)](https://github.com/andrewharmellaw/skill-xp-apprentice-dev)
 
