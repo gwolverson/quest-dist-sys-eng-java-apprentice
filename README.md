@@ -13,9 +13,9 @@
 
 ## [Apprentice (Specific)]
  - [Java 8 Programmer (Apprentice Developer)](https://github.com/andrewharmellaw/skill-java8-apprentice-dev)
- - IDE - IntelliJ IDEA (Apprentice Developer)
  - [Continuous Integration - Jenkins 2 (Apprentice Developer)](https://github.com/andrewharmellaw/skill-ci-jenkins2-apprentice-dev)
  - [Build Tool - Maven2 (Apprentice Developer)](https://github.com/andrewharmellaw/skill-build-tool-maven2-apprentice-dev)
  - [Testing (Unit) - JUnit5 (Apprentice Developer)](https://github.com/andrewharmellaw/skill-testing-junit5-apprentice-dev)
  - [Framework (Java) - Spring (Apprentice Developer)](https://github.com/andrewharmellaw/skill-fwk-java-spring-apprentice-dev)
+ - [IDE - IntelliJ IDEA (Apprentice Developer)](https://github.com/andrewharmellaw/skill-ide-intellij-idea-apprentice-dev)
  - [Persistence (Relational) - MySQL (Apprentice Developer)](https://github.com/andrewharmellaw/skill-persistence-relational-mysql-apprentice-dev)
