@@ -12,10 +12,10 @@
  - [Extreme Programming (Apprentice Developer)](https://github.com/andrewharmellaw/skill-xp-apprentice-dev)
 
 ## [Apprentice (Specific)]
- - Java 8 (Apprentice Developer)
+ - [Java 8 Programmer (Apprentice Developer)](https://github.com/andrewharmellaw/skill-java8-apprentice-dev)
  - IDE - IntelliJ IDEA (Apprentice Developer)
- - CI - Jenkins 2 (Apprentice Developer)
- - Build Tool - Maven (Apprentice Developer)
- - Testing (Unit) - JUnit (Apprentice Developer)
- - Framework (Java) - Spring (Apprentice Developer)
- - Persistence (Relational) - MySQL (Apprentice Developer)
+ - [Continuous Integration - Jenkins 2 (Apprentice Developer)](https://github.com/andrewharmellaw/skill-ci-jenkins2-apprentice-dev)
+ - [Build Tool - Maven2 (Apprentice Developer)](https://github.com/andrewharmellaw/skill-build-tool-maven2-apprentice-dev)
+ - [Testing (Unit) - JUnit5 (Apprentice Developer)](https://github.com/andrewharmellaw/skill-testing-junit5-apprentice-dev)
+ - [Framework (Java) - Spring (Apprentice Developer)](https://github.com/andrewharmellaw/skill-fwk-java-spring-apprentice-dev)
+ - [Persistence (Relational) - MySQL (Apprentice Developer)](https://github.com/andrewharmellaw/skill-persistence-relational-mysql-apprentice-dev)
