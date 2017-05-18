@@ -9,7 +9,7 @@
  - Security and Cyber Concepts (Apprentice Developer) [https://github.com/andrewharmellaw/skill-security-cyber-apprentice-dev]
  - Development Principles (Apprentice Developer) [https://github.com/andrewharmellaw/skill-development-principles-apprentice-dev]
  - Scrum (Pig) [https://github.com/andrewharmellaw/skill-scrum-pig]
- - Software Craftsmanship (Apprentice Developer) [] - TDD, Pairing, consuming CI, Estimation 
+ - Extreme Programming (Apprentice Developer) [https://github.com/andrewharmellaw/skill-xp-apprentice-dev]
 
 ## [Apprentice (Specific)]
  - Java 8 (Apprentice Developer)
