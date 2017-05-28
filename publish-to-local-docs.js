@@ -36,7 +36,7 @@ for (i = 0; i < dependencyIds.length; i++) {
       description = currentDependency;
     }
 
-    mainLinkSection += "  * [" + description + "](./docs/" + currentDependency + "/index.md) \n"
+    mainLinkSection += "  * [" + description + "](./" + currentDependency + ")\n"
   });
 
 }

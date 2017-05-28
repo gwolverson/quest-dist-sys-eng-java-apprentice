@@ -1,9 +1,9 @@
 # QUEST - Java Distributed Systems Engineer (Apprentice Level)
 
 ## Auto-Generated
-  * [SKILL: SCM (Distributed) - Git (Apprentice Developer)](./docs/skill-unix-apprentice-user/index.md) 
-  * [SKILL: Networking (HTTP/HTTPS and Web Server) (Apprentice Developer)](./docs/skill-unix-apprentice-user/index.md) 
-  * [SKILL: UNIX User (Apprentice)](./docs/skill-unix-apprentice-user/index.md) 
+  * [SKILL: SCM (Distributed) - Git (Apprentice Developer)](./skill-unix-apprentice-user)
+  * [SKILL: Networking (HTTP/HTTPS and Web Server) (Apprentice Developer)](./skill-unix-apprentice-user)
+  * [SKILL: UNIX User (Apprentice)](./skill-unix-apprentice-user)
 
 
 ## [Apprentice (General)]
