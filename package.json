@@ -2,24 +2,21 @@
   "name": "quest-dist-sys-eng-java-apprentice",
   "version": "0.1.0",
   "description": "QUEST - Java Distributed Systems Engineer (Apprentice Level)",
+  "author": "Andrew Harmel-Law",
+  "license": "CC-BY-NC-SA-4.0",
+  "dependencies": {
+    "skill-scm-distributed-git-apprentice": "github:andrewharmellaw/skill-scm-distributed-git-apprentice"
+  },
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\""
   },
-  "author": "Andrew Harmel-Law",
-  "license": "CC-BY-NC-SA-4.0",
-  "dependencies": {
-    "chap1": "github:broomyocymru/chap1",
-    "chap2": "github:broomyocymru/chap2",
-    "ejs": "^1.0.0",
-    "errorhandler": "^1.2.0",
-    "express": "^4.9.6",
-    "express-handlebars": "^1.1.0",
-    "hbs": "^2.7.0",
-    "jade": "^1.7.0",
-    "markdown-serve": "*",
-    "moment": "^2.8.3",
-    "morgan": "^1.3.2",
-    "vash": "^0.7.11-3"
+  "engines": {
+    "node": ">=4.2.4"
+  },
+  "devDependencies": {
+    "fs-extra": "^3.0.1",
+    "get-module-file": "^0.1.0",
+    "pkginfo": "^0.4.0"
   }
 }
