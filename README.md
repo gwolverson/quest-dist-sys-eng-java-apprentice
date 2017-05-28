@@ -1,5 +1,8 @@
 # QUEST - Java Distributed Systems Engineer (Apprentice Level)
 
+## Auto-Generated
+[MODULE-LINKS WILL BE AUTO-INSERTED HERE]
+
 ## [Apprentice (General)]
  - [SCM (Distributed) - Git (Apprentice Developer)](https://github.com/andrewharmellaw/skill-scm-distributed-git-apprentice)
  - [Networking - HTTP/HTTPS and Web Server (Apprentice Developer)](https://github.com/andrewharmellaw/skill-networking-apprentice-dev)
