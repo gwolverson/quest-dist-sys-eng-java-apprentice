@@ -1,13 +1,13 @@
 {
   "name": "quest-dist-sys-eng-java-apprentice",
   "version": "0.1.0",
-  "description": "",
+  "description": "QUEST - Java Distributed Systems Engineer (Apprentice Level)",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\""
   },
-  "author": "",
-  "license": "ISC",
+  "author": "Andrew Harmel-Law",
+  "license": "CC-BY-NC-SA-4.0",
   "dependencies": {
     "chap1": "github:broomyocymru/chap1",
     "chap2": "github:broomyocymru/chap2",
