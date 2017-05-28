@@ -2,7 +2,6 @@
   "name": "quest-dist-sys-eng-java-apprentice",
   "version": "0.1.0",
   "description": "",
-  // TODO: Move these out to a separate binder npm
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\""
@@ -12,7 +11,6 @@
   "dependencies": {
     "chap1": "github:broomyocymru/chap1",
     "chap2": "github:broomyocymru/chap2",
-    // TODO: Move the rest of these out to a separate binder npm
     "ejs": "^1.0.0",
     "errorhandler": "^1.2.0",
     "express": "^4.9.6",
