@@ -1,1 +1,8 @@
 node_modules/
+/.idea/
+public/
+routes/
+views/
+bin/
+/quest-dist-sys-eng-java-apprentice.iml
+/app.js
