@@ -7,7 +7,20 @@
   "dependencies": {
     "skill-scm-distributed-git-apprentice": "github:andrewharmellaw/skill-scm-distributed-git-apprentice",
     "skill-networking-apprentice-dev": "github:andrewharmellaw/skill-networking-apprentice-dev",
-    "skill-unix-apprentice-user": "github:andrewharmellaw/skill-unix-apprentice-user"
+    "skill-unix-apprentice-user": "github:andrewharmellaw/skill-unix-apprentice-user",
+    "skill-ooad-apprentice-dev": "github:andrewharmellaw/skill-ooad-apprentice-dev",
+    "skill-design-patterns-apprentice-dev": "github:andrewharmellaw/skill-design-patterns-apprentice-dev",
+    "skill-security-cyber-apprentice-dev": "github:andrewharmellaw/skill-security-cyber-apprentice-dev",
+    "skill-development-principles-apprentice-dev": "github:andrewharmellaw/skill-development-principles-apprentice-dev",
+    "skill-scrum-pig": "github:andrewharmellaw/skill-scrum-pig",
+    "skill-xp-apprentice-dev": "github:andrewharmellaw/skill-xp-apprentice-dev",
+    "skill-java8-apprentice-dev": "github:andrewharmellaw/skill-java8-apprentice-dev",
+    "skill-ci-jenkins2-apprentice-dev": "github:andrewharmellaw/skill-ci-jenkins2-apprentice-dev",
+    "skill-build-tool-maven2-apprentice-dev": "github:andrewharmellaw/skill-build-tool-maven2-apprentice-dev",
+    "skill-testing-junit5-apprentice-dev": "github:andrewharmellaw/skill-testing-junit5-apprentice-dev",
+    "skill-fwk-java-spring-apprentice-dev": "github:andrewharmellaw/skill-fwk-java-spring-apprentice-dev",
+    "skill-ide-intellij-idea-apprentice-dev": "github:andrewharmellaw/skill-ide-intellij-idea-apprentice-dev",
+    "skill-persistence-relational-mysql-apprentice-dev": "github:andrewharmellaw/skill-persistence-relational-mysql-apprentice-dev"
   },
   "main": "app.js",
   "scripts": {
