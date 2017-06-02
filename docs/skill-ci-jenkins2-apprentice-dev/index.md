@@ -13,7 +13,7 @@
   * Configuring Maven Plugin Reports
 
 ## [RESOURCES]
-  * Jenkins User Handbook (https://jenkins.io/user-handbook.pdf) - sections: "Using Jenkins", "Managing Jenkins", "Configuring the System", "Best Practices", "Pipelnine", "Getting Started with Pipeline", "Using a JenkinsFile", "Branches and Pull Requests", "Jenkins with Java", 
+  * [Jenkins User Handbook](https://jenkins.io/user-handbook.pdf) - sections: "Using Jenkins", "Managing Jenkins", "Configuring the System", "Best Practices", "Pipelnine", "Getting Started with Pipeline", "Using a JenkinsFile", "Branches and Pull Requests", "Jenkins with Java" 
 
 ## [BADGES]
   * CI-Consumer (Jenkins 2)

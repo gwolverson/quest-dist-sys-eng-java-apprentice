@@ -16,8 +16,8 @@
   * Project Hierarchies (SUPPLEMENTARY)
 
 ## [RESOURCES]
-  * Maven Getting Started Guide (https://maven.apache.org/guides/getting-started/index.html) - covers all topics above
-  * Maven the Complete Reference (O'Reilly) (https://books.sonatype.com/mvnref-book/reference/) - covers all the topics above (TBC: Sections list)
+  * [Maven Getting Started Guide](https://maven.apache.org/guides/getting-started/index.html) - covers all topics above
+  * [Maven the Complete Reference (O'Reilly)](https://books.sonatype.com/mvnref-book/reference/) - covers all the topics above (TBC: Sections list)
 
 ## [BADGES]
   * Maven-Builder

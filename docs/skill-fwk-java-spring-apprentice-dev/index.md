@@ -21,12 +21,12 @@
   * Microserivces with Spring Cloud (SUPPLEMENTAL)
 
 ## [RESOURCES]
-  * Pivotal's Core Spring (F2F Course at Skills Matter) (https://skillsmatter.com/courses/103-spring-framework) - all above topics, including supplemental ones
-  * Spring in Action (4th Ed.) (Craig Walls) (https://www.amazon.com/Spring-Action-Craig-Walls/dp/161729120X/) - all above topics apart from Spring Cloud
-  * Pivotal's Spring Guides (https://spring.io/guides) - quick starts on specific topics, designed to be completed in 15 - 20 minutes - all above topics, including supplemental ones
-  * Pivotal's Spring Documentation (https://spring.io/docs/reference) - in-depth documention, per Spring project - all above topics, including supplemental ones
-  * Spring Recipies: A Problem-Solving Approach (3rd Ed.) (Rubio and Long) (https://www.amazon.com/Spring-Recipes-Problem-Solution-Daniel-Rubio/dp/1430259086/)
-  * Spring Professional Certification (https://pivotal.io/training/certification)
+  * [Pivotal's Core Spring](https://skillsmatter.com/courses/103-spring-framework) (F2F Course at Skills Matter) - all above topics, including supplemental ones
+  * [Spring in Action (4th Ed.)](https://www.amazon.com/Spring-Action-Craig-Walls/dp/161729120X/) (Craig Walls) - all above topics apart from Spring Cloud
+  * [Pivotal's Spring Guides](https://spring.io/guides) - quick starts on specific topics, designed to be completed in 15 - 20 minutes - all above topics, including supplemental ones
+  * [Pivotal's Spring Documentation](https://spring.io/docs/reference) - in-depth documention, per Spring project - all above topics, including supplemental ones
+  * [Spring Recipies: A Problem-Solving Approach (3rd Ed.) (Rubio and Long)](https://www.amazon.com/Spring-Recipes-Problem-Solution-Daniel-Rubio/dp/1430259086/)
+  * [Spring Professional Certification](https://pivotal.io/training/certification)
 
 ## [BADGES]
   * core-spring-developer (SkillsMatter)

@@ -28,9 +28,9 @@
     * Files and NIO
 
 ## [RESOURCES]
-  * Oracle Java SE 8 Fundamentals (F2F / Online Realtime / Online-on-demand-video) - coverage of all topics except Date and Time
-  * Oracle Java Tutorials (Online Tutorial) - coverage of all topics
-  * On Java 8 (Bruce Eckel) (Book / eBook) - coverage of all topics except Date and Time
+  * [Oracle Java SE 8 Fundamentals (F2F / Online Realtime / Online-on-demand-video)](https://education.oracle.com/pls/web_prod-plq-dad/db_pages.getpage?page_id=609&get_params=dc:D83527,clang:EN) - coverage of all topics except Date and Time
+  * [Oracle Java Tutorials](https://docs.oracle.com/javase/tutorial/) (Online Tutorial) - coverage of all topics
+  * [On Java 8](https://books.google.co.uk/books/about/On_Java_8.html?id=p4ytDgAAQBAJ&redir_esc=y) (Bruce Eckel) (Book / eBook) - coverage of all topics except Date and Time
 
 ## [BADGES]
   * Oracle Certified Java SE Programmer - official
