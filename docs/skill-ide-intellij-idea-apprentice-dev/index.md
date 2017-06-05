@@ -1,9 +1,9 @@
 # SKILL: IDE - IntelliJ IDEA (Apprentice Developer)
 
 ## [PRE-REQUISITES]
-  * [Java 8 Programmer (Apprentice Developer)](https://github.com/andrewharmellaw/skill-java8-apprentice-dev)
-  * [Build Tool - Maven2 (Apprentice Developer)](https://github.com/andrewharmellaw/skill-build-tool-maven2-apprentice-dev)
-  * [Testing (Unit) - JUnit5 (Apprentice Developer)](https://github.com/andrewharmellaw/skill-testing-junit5-apprentice-dev)
+  * [Java 8 Programmer (Apprentice Developer)](https://andrewharmellaw.github.io/quest-dist-sys-eng-java-apprentice/skill-java8-apprentice-dev)
+  * [Build Tool - Maven2 (Apprentice Developer)](https://andrewharmellaw.github.io/quest-dist-sys-eng-java-apprentice/skill-build-tool-maven2-apprentice-dev)
+  * [Testing (Unit) - JUnit5 (Apprentice Developer)](https://andrewharmellaw.github.io/quest-dist-sys-eng-java-apprentice/skill-testing-junit5-apprentice-dev)
 
 ## [TOPICS]
   * Configuration (Build Tool, JDK, Spring, look and feel, code style)
