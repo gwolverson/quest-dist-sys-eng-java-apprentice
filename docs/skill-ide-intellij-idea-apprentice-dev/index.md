@@ -15,8 +15,8 @@
   * Shortcuts (SUPPLEMENTARY)
 
 ## [RESOURCES]
-  * Default Keymap (https://resources.jetbrains.com/storage/products/intellij-idea/docs/IntelliJIDEA_ReferenceCard.pdf) - Cheatsheet
-  * Jetbrains Video Tutorials (https://www.jetbrains.com/idea/documentation/) - Online Video Series
+  * [Default Keymap](https://resources.jetbrains.com/storage/products/intellij-idea/docs/IntelliJIDEA_ReferenceCard.pdf) - Cheatsheet
+  * [Jetbrains Video Tutorials](https://www.jetbrains.com/idea/documentation/) - Online Video Series
 
 ## [BADGES]
   * No-Mouse-IDE (IDEA)
@@ -26,7 +26,7 @@
   * Read the tip of the day, and try and to use it
 
 ## [ADVENTURER NOTES]
-  * Follow Tricia Gee on Twitter
-  * Read the Jetbrains Blog
+  * Follow [Tricia Gee](https://twitter.com/trisha_gee) on Twitter
+  * Read the [Jetbrains IntelliJ Blog](https://blog.jetbrains.com/idea/)
 
 ## [THE CAIRN]

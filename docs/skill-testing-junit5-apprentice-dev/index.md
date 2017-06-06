@@ -1,7 +1,7 @@
 # SKILL: Unit Testing - JUnit 5 (Apprentice Developer)
 
 ## [PRE-REQUISITES]
-  * Java 8 Programmer (Apprentice Developer)
+  * [Java 8 Programmer (Apprentice Developer)](https://andrewharmellaw.github.io/quest-dist-sys-eng-java-apprentice/skill-java8-apprentice-dev/)
 
 ## [TOPICS]
   * Writing Tests
@@ -17,12 +17,12 @@
   * [John Nash's "Stylish Unit Tests" Blog](https://capgemini.github.io/development/unit-test-structure/) (Blog)
 
 ## [BADGES]
-  * 
+  *
 
 ## [EXPERIENCE SUGGESTIONS]
-  * 
+  *
 
 ## [ADVENTURER NOTES]
-  * 
+  *
 
 ## [THE CAIRN]

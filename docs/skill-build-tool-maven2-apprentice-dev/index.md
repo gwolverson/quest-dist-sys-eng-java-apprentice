@@ -1,12 +1,12 @@
 # SKILL: Build Tool - Maven2 (Apprentice Developer)
 
 ## [PRE-REQUISITES]
-  * [Java 8 Programmer (Apprentice Developer)](https://github.com/andrewharmellaw/skill-java8-apprentice-dev)
+  * [Java 8 Programmer (Apprentice Developer)](https://andrewharmellaw.github.io/quest-dist-sys-eng-java-apprentice/skill-java8-apprentice-dev)
 
 ## [TOPICS]
   * Installation
   * The POM
-  * Running (compling, testing, packaging and running) 
+  * Running (compling, testing, packaging and running)
   * Versions
   * Lifecycle and Goals
   * Dependencies
@@ -23,9 +23,9 @@
   * Maven-Builder
 
 ## [EXPERIENCE SUGGESTIONS]
-  * 
+  *
 
 ## [ADVENTURER NOTES]
-  * 
+  *
 
 ## [THE CAIRN]

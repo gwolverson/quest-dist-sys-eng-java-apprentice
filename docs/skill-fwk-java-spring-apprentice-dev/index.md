@@ -1,13 +1,13 @@
 # SKILL: Framework - Spring 4 (Apprentice Developer)
 
 ## [PRE-REQUISITES]
-  * [Networking - HTTP/HTTPS and Web Server (Apprentice Developer)](https://github.com/andrewharmellaw/skill-networking-apprentice-dev)
-  * [Design Patterns (Apprentice)](https://github.com/andrewharmellaw/skill-design-patterns-apprentice-dev)
-  * [Security and Cyber Concepts (Apprentice Developer)](https://github.com/andrewharmellaw/skill-security-cyber-apprentice-dev)
-  * [Java 8 Programmer (Apprentice Developer)](https://github.com/andrewharmellaw/skill-java8-apprentice-dev)
-  * [Testing (Unit) - JUnit5 (Apprentice Developer)](https://github.com/andrewharmellaw/skill-testing-junit5-apprentice-dev)
-  * Build Tool - Maven 2 (Apprentice Developer)
-  * [Persistence (Relational) - MySQL (Apprentice Developer)](https://github.com/andrewharmellaw/skill-persistence-relational-mysql-apprentice-dev)
+  * [Networking - HTTP/HTTPS and Web Server (Apprentice Developer)](https://andrewharmellaw.github.io/quest-dist-sys-eng-java-apprentice/skill-networking-apprentice-dev)
+  * [Design Patterns (Apprentice)](https://andrewharmellaw.github.io/quest-dist-sys-eng-java-apprentice/skill-design-patterns-apprentice-dev)
+  * [Security and Cyber Concepts (Apprentice Developer)](https://andrewharmellaw.github.io/quest-dist-sys-eng-java-apprentice/skill-security-cyber-apprentice-dev)
+  * [Java 8 Programmer (Apprentice Developer)](https://andrewharmellaw.github.io/quest-dist-sys-eng-java-apprentice/skill-java8-apprentice-dev)
+  * [Testing (Unit) - JUnit5 (Apprentice Developer)](https://andrewharmellaw.github.io/quest-dist-sys-eng-java-apprentice/skill-testing-junit5-apprentice-dev)
+  * [Build Tool - Maven 2 (Apprentice Developer)](https://andrewharmellaw.github.io/quest-dist-sys-eng-java-apprentice/skill-build-tool-maven2-apprentice-dev/)
+  * [Persistence (Relational) - MySQL (Apprentice Developer)](https://andrewharmellaw.github.io/quest-dist-sys-eng-java-apprentice/skill-persistence-relational-mysql-apprentice-dev)
 
 ## [TOPICS]
   * Design Patterns in Spring: Dependency Injection and Inversion of Control
@@ -36,6 +36,6 @@
   * Follow the Pivotal Guides
 
 ## [ADVENTURER NOTES]
-  * 
+  *
 
 ## [THE CAIRN]
