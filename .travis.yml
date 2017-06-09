@@ -9,4 +9,10 @@ before_script:
 script:
   - node publish-to-local-docs.js
   - generate-release --release-type minor
+notifications:
+  email:
+    recipients:
+      - andrew@harmel-law.com
+    on_success: [change]
+    on_failure: [always]
 
