@@ -8,3 +8,4 @@ before_script:
   - npm install
 script:
   - node publish-to-local-docs.js
+  - npm generate-release
