@@ -32,6 +32,12 @@
   "devDependencies": {
     "fs-extra": "^3.0.1",
     "get-module-file": "^0.1.0",
-    "pkginfo": "^0.4.0"
+    "pkginfo": "^0.4.0",
+    "generate-release": "0.13.0"
+  },
+  "config": {
+    "generateRelease": {
+      "no_confirm": true
+    }
   }
 }
