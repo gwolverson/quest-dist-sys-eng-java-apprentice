@@ -9,3 +9,4 @@ before_script:
 script:
   - node publish-to-local-docs.js
   - npm generate-release
+
