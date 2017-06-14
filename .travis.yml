@@ -15,6 +15,7 @@ after_success:
   - npm version minor
   - git add .
   - git commit -m "New minor version"
+  - git log
   - git push
 #deploy:
 #  - npm publish
