@@ -4,29 +4,18 @@ node_js:
 branches:
   only:
     - master
-before_install:
-  - curl -OL https://raw.github.com/petervanderdoes/gitflow-avh/develop/contrib/gitflow-installer.sh
-  - chmod +x gitflow-installer.sh
-  - mkdir ~/bin
-  - PREFIX=~ ./gitflow-installer.sh install stable
-  - if [ $TRAVIS_OS_NAME == "osx" ]; then
-      brew install gnu-getopt;
-      echo export FLAGS_GETOPT_CMD="$(brew --prefix gnu-getopt)/bin/getopt" >~/.gitflow_export;
-    fi
+#before_install:
 before_script:
   - git config --global user.email "test@test.com"
   - git config --global user.name "Testing Tester"
-  - git config --global gitflow.branch.master "master"
-  - git config --global gitflow.branch.develop "develop"
-  - git config --global gitflow.prefix.feature "feature/"
-  - git config --global gitflow.prefix.release "release/"
-  - git config --global gitflow.prefix.hotfix "hotfix/"
-  - git config --global gitflow.prefix.support "support/"
-  - git config --global gitflow.prefix.versiontag "v"
   - npm install
 script:
   - node publish-to-local-docs.js
-  - generate-release --release-type minor
+after_success:
+  - npm version minor
+  - git push
+#deploy:
+#  - npm publish
 notifications:
   email:
     recipients:
