@@ -12,9 +12,9 @@ before_script:
 script:
   - node publish-to-local-docs.js
 after_success:
-  - npm version minor
+  - npm version minor -m "Upgrade to %s"
   - git add .
-  - git commit -m "New minor version"
+  - git commit -m "Latest site build"
   - git log
   - git push
 #deploy:
