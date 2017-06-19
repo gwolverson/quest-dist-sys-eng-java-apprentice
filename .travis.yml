@@ -10,9 +10,13 @@ before_script:
 script:
   - node publish-to-local-docs.js
 after_success:
-  - npm version minor
   - git config --global user.email "travis@travis.com"
   - git config --global user.name "Travis CI"
+  - git status
+  - git add -f .
+  - git commit -m "Updated site."
+  - git status
+  - npm version minor
   - git status
   - git remote rm origin
   - git remote add origin https://andrewharmellaw:$GITHUB_API_KEY@github.com/andrewharmellaw/quest-dist-sys-eng-java-apprentice.git
