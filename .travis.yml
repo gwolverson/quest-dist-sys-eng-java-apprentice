@@ -10,6 +10,9 @@ before_script:
 script:
   - node publish-to-local-docs.js
 after_success:
+  - echo $TRAVIS_PULL_REQUEST
+  - echo $TRAVIS_BRANCH
+  - echo $TRAVIS_PULL_REQUEST_BRANCH
   - git config --global user.email "travis@travis.com"
   - git config --global user.name "Travis CI"
   - git status
