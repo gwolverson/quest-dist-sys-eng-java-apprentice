@@ -6,7 +6,7 @@ Please note, all contributors must agree to abide by the [Code of Conduct](./COD
 The details of how to contribute to this quest follow.  
 
 ## Making Your Own Copy, Then Proposing We Accept Your Changes 
-BEcause more than one person might want to edit the quest at the same time, and because we want to make sure all changes fit the aim of the quest we have a slightly indirect process to follow.  The way we ask that you do this is via a fork-and-a-pull request combo. It sounds a little complicated, but it's simple really.  (If you've used github before you can probably skip this section.)
+Because more than one person might want to edit the quest at the same time, and because we want to make sure all changes fit the aim of the quest, we have a slightly indirect process to follow when you want to make a change.  The way we ask that you do this is via a fork-and-a-pull request combo. It sounds a little complicated, but it's simple really.  (If you've used github before you can probably skip this section.)
 
 First, click the "Fork" button (top right - you might want to CTRL-click to do this in a new window so you can keep this page open at the same time).  This will make your own personal copy of everything in this quest including this file, linked back to us, it's parent. (Note: to do this you'll need to be logged into your github account. If you don't have one, [sign up](https://github.com/join)! It's free, and easy to get going.)
 
