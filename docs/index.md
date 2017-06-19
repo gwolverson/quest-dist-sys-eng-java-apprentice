@@ -1,5 +1,7 @@
 # QUEST - Java Distributed Systems Engineer (Apprentice Level)
 
+[![Join the chat at https://gitter.im/quest-dist-sys-eng-java-apprentice/Lobby](https://badges.gitter.im/quest-dist-sys-eng-java-apprentice/Lobby.svg)](https://gitter.im/quest-dist-sys-eng-java-apprentice/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 ## Skill Modules 
   * [SKILL: SCM (Distributed) - Git (Apprentice Developer)](./skill-scm-distributed-git-apprentice)
   * [SKILL: Networking (HTTP/HTTPS and Web Server) (Apprentice Developer)](./skill-networking-apprentice-dev)
