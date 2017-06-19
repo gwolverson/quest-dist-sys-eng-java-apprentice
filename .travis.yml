@@ -24,10 +24,8 @@ after_success:
   - git add .
   - git commit -m "Updated site."
   - git status
-  - npm version minor
+  - npm version minor -m "Travis build $TRAVIS_BUILD_NUMBER pushed version %s [skip ci]"
   - git status
-#  - git remote rm origin
-#  - git remote add origin https://andrewharmellaw:$GITHUB_API_KEY@github.com/andrewharmellaw/quest-dist-sys-eng-java-apprentice.git
 #  - git add .
 #  - git commit -m "Travis build $TRAVIS_BUILD_NUMBER pushed [skip ci]"
 #  - git status
