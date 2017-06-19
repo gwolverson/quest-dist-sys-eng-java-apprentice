@@ -17,6 +17,7 @@ after_success:
   - git config --global user.name "Travis CI"
   - git status
   - git remote -v
+  - git fetch
   - git checkout $TRAVIS_PULL_REQUEST_BRANCH
   - git add .
   - git commit -m "Updated site."
