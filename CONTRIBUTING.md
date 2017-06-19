@@ -1,7 +1,7 @@
 # Contributing
 Hello! Thank you for wanting to contribute to this Quest. We love contributions. (Isn't Open Source great?)
 
-Please note, all contributors must agree to abide by the [Code of Conduct](./CODE_OF_CONDUCT.md] - it keeps things civil and inclusive.  We want to make this a safe place for everyone to make awesome things.
+Please note, all contributors must agree to abide by the [Code of Conduct](./CODE_OF_CONDUCT.md) - it keeps things civil and inclusive.  We want to make this a safe place for everyone to make awesome things.
 
 The details of how to contribute to this quest follow.  
 
