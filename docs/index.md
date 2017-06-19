@@ -1,6 +1,6 @@
 # QUEST - Java Distributed Systems Engineer (Apprentice Level)
 
-## Skill-Modules
+## Skill Modules 
   * [SKILL: SCM (Distributed) - Git (Apprentice Developer)](./skill-scm-distributed-git-apprentice)
   * [SKILL: Networking (HTTP/HTTPS and Web Server) (Apprentice Developer)](./skill-networking-apprentice-dev)
   * [SKILL: UNIX User (Apprentice)](./skill-unix-apprentice-user)
