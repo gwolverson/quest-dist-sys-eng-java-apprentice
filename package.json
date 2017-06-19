@@ -1,7 +1,7 @@
 {
   "name": "quest-dist-sys-eng-java-apprentice",
   "description": "QUEST - Java Distributed Systems Engineer (Apprentice Level)",
-  "version": "0.5.0",
+  "version": "0.6.0",
   "author": "Andrew Harmel-Law",
   "license": "CC-BY-NC-SA-4.0",
   "dependencies": {
