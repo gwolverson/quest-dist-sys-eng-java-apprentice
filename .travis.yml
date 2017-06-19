@@ -29,8 +29,8 @@ after_success:
 #  - git add .
 #  - git commit -m "Travis build $TRAVIS_BUILD_NUMBER pushed [skip ci]"
 #  - git status
-#  - git push -fq origin master > /dev/null
-#  - git status
+  - git push origin $TRAVIS_PULL_REQUEST_BRANCH
+  - git status
 #deploy:
 #  - npm publish
 notifications:
