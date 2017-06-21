@@ -1,7 +1,6 @@
 # QUEST - Java Distributed Systems Engineer (Apprentice Level)
 
 [![Join the chat at https://gitter.im/quest-dist-sys-eng-java-apprentice/Lobby](https://badges.gitter.im/quest-dist-sys-eng-java-apprentice/Lobby.svg)](https://gitter.im/quest-dist-sys-eng-java-apprentice/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
-
 [![Build Status](https://travis-ci.org/andrewharmellaw/quest-dist-sys-eng-java-apprentice.svg?branch=master)](https://travis-ci.org/andrewharmellaw/quest-dist-sys-eng-java-apprentice)
 
 ## Skill Modules 
@@ -21,4 +20,5 @@
   * [SKILL: Framework - Spring 4 (Apprentice Developer)](./skill-fwk-java-spring-apprentice-dev)
   * [SKILL: IDE - IntelliJ IDEA (Apprentice Developer)](./skill-ide-intellij-idea-apprentice-dev)
   * [SKILL: Persistence (Relational) - MySQL (Apprentice Developer)](./skill-persistence-relational-mysql-apprentice-dev)
+
 
