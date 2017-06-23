@@ -1,6 +1,6 @@
 #!/bin/bash
 if [ "$TRAVIS_BRANCH" == "master" ]; then
-  cd $HOME
+  cd $TRAVIS_BUILD_DIR
   git config --global user.email "travis@travis.com"
   git config --global user.name "Travis CI"
   touch .
