@@ -7,7 +7,7 @@ branches:
 before_script:
   - npm install
 script:
-  - npm version minor -m "Travis build $TRAVIS_BUILD_NUMBER pushed version %s"
+  - npm version minor --no-git-tag-version
   - node publish-to-local-docs.js
 after_success:
   - git config --global user.email "travis@travis.com"
