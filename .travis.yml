@@ -4,25 +4,13 @@ node_js:
 branches:
   only:
     - master
-#before_install:
 before_script:
   - npm install
 script:
+  - npm version minor --no-git-tag-version
   - node publish-to-local-docs.js
 after_success:
-  - git config --global user.email "travis@travis.com"
-  - git config --global user.name "Travis CI"
-  - git remote rm origin
-  - git remote add origin https://andrewharmellaw:$GITHUB_API_KEY@github.com/andrewharmellaw/quest-dist-sys-eng-java-apprentice.git
-  - git remote -v
-  - git fetch
-  - git checkout $TRAVIS_PULL_REQUEST_BRANCH
-  - git add .
-  - git commit -m "Updated site."
-  - npm version minor -m "Travis build $TRAVIS_BUILD_NUMBER pushed version %s [skip ci]"
-  - git push origin $TRAVIS_PULL_REQUEST_BRANCH
-#deploy:
-#  - npm publish
+  - test $TRAVIS_PULL_REQUEST == "false" && test $TRAVIS_BRANCH == "master" && release-site.sh
 notifications:
   email:
     recipients:
