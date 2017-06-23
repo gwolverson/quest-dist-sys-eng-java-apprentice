@@ -6,6 +6,7 @@ if [ "$TRAVIS_BRANCH" == "master" ]; then
   git remote rm origin
   git remote add origin https://andrewharmellaw:$GITHUB_API_KEY@github.com/andrewharmellaw/quest-dist-sys-eng-java-apprentice.git
   git remote -v
+  git checkout master
   touch .
   git add -A .
   git commit -m "Travis build $TRAVIS_BUILD_NUMBER pushed [skip ci]"
