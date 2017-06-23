@@ -10,6 +10,7 @@ script:
   - npm version minor --no-git-tag-version
   - node publish-to-local-docs.js
 after_success:
+  - chmod +x release-site.sh
   - test $TRAVIS_PULL_REQUEST == "false" && test $TRAVIS_BRANCH == "master" && ./release-site.sh
 notifications:
   email:
