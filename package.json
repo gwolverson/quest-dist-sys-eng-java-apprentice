@@ -5,7 +5,6 @@
   "author": "Andrew Harmel-Law",
   "license": "CC-BY-NC-SA-4.0",
   "dependencies": {
-    "binder": "file:../binder",
     "doc-publisher": "^0.1.15",
     "pkginfo": "^0.4.0",
     "skill-build-tool-maven2-apprentice-dev": "github:andrewharmellaw/skill-build-tool-maven2-apprentice-dev",
