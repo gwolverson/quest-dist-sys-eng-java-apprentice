@@ -15,6 +15,6 @@ after_success:
 notifications:
   email:
     recipients:
-      - greg.wolverson@capgemini.com
+      - andrew@harmel-law.com
     on_success: [change]
     on_failure: [always]
