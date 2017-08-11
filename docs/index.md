@@ -23,4 +23,3 @@
   * [SKILL: Unit Testing - JUnit 5 (Apprentice Developer)](./skill-testing-junit5-apprentice-dev)
   * [SKILL: UNIX User (Apprentice)](./skill-unix-apprentice-user)
   * [SKILL: Extreme Programming (Apprentice Developer)](./skill-xp-apprentice-dev)
-
