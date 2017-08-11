@@ -5,8 +5,6 @@
   "author": "Andrew Harmel-Law",
   "license": "CC-BY-NC-SA-4.0",
   "dependencies": {
-    "doc-publisher": "^0.1.17",
-    "pkginfo": "^0.4.0",
     "skill-build-tool-maven2-apprentice-dev": "github:andrewharmellaw/skill-build-tool-maven2-apprentice-dev",
     "skill-ci-jenkins2-apprentice-dev": "github:andrewharmellaw/skill-ci-jenkins2-apprentice-dev",
     "skill-design-patterns-apprentice-dev": "github:andrewharmellaw/skill-design-patterns-apprentice-dev",
@@ -23,6 +21,10 @@
     "skill-testing-junit5-apprentice-dev": "github:andrewharmellaw/skill-testing-junit5-apprentice-dev",
     "skill-unix-apprentice-user": "github:andrewharmellaw/skill-unix-apprentice-user",
     "skill-xp-apprentice-dev": "github:andrewharmellaw/skill-xp-apprentice-dev"
+  },
+  "devDependencies": {
+    "doc-publisher": "^0.1.15",
+    "pkginfo": "^0.4.0"
   },
   "main": "app.js",
   "scripts": {
