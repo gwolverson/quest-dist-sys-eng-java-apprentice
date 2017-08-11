@@ -4,7 +4,7 @@ if [ "$TRAVIS_BRANCH" == "master" ]; then
   git config --global user.email "travis@travis.com"
   git config --global user.name "Travis CI"
   git remote rm origin
-  git remote add origin https://andrewharmellaw:$GITHUB_API_KEY@github.com/andrewharmellaw/quest-dist-sys-eng-java-apprentice.git
+  git remote add origin https://gwolverson:$GITHUB_API_KEY@github.com/gwolverson/quest-dist-sys-eng-java-apprentice.git
   git remote -v
   git checkout master
   touch .
